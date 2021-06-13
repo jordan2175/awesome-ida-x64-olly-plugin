@@ -52,6 +52,14 @@ plugin.
 * [CAPA Explorer](https://github.com/fireeye/capa/tree/master/capa/ida/plugin): Capa explorer is an IDA Pro plugin written in Python that integrates the FLARE team's open-source framework, capa, with IDA.
 * [Ghida](https://github.com/Cisco-Talos/GhIDA): GhIDA is an IDA Pro plugin that integrates the Ghidra decompiler in IDA.
 * [vt-ida-plugin](https://github.com/VirusTotal/vt-ida-plugin): This plugin integrates functionality from VirusTotal web services into the IDA Pro's user interface.
+* [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction.
+* [ipyda](https://github.com/eset/ipyida): PyIDA is a python-only solution to add an IPython console to IDA Pro.
+* [ComIDA](https://github.com/airbus-cert/comida): An IDA Plugin that help during the analysis of modules using COM.
+* [D810](https://gitlab.com/eshard/d810): D-810 is an IDA Pro plugin which can be used to deobfuscate code at decompilation time by modifying IDA Pro microcode.
+* [lumen](https://github.com/naim94a/lumen): A private Lumina server for IDA Pro.
+* [Hexrays Toolbox](https://github.com/patois/HexraysToolbox): Hexrays Toolbox is a script for the Hexrays Decompiler which can be used to find code patterns within decompiled code.
+* [HRDevHelper](https://github.com/patois/HRDevHelper): This plugin for the HexRays decompiler creates a graph of a decompiled function's AST using IDA's internal graph viewer. 
+* [ida-minsc](https://github.com/arizvisa/ida-minsc): IDA-minsc is a plugin for IDA Pro that assists a user with scripting the IDAPython plugin that is bundled with the disassembler. 
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
